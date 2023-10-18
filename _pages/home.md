@@ -27,8 +27,8 @@ feature_row:
     btn_label: "Learn more"
   
   - image_path: /assets/images/pca.png
-    title: "Clustering with K-menas."
-    excerpt: "In this analysis, I employed the K-means model for Customer Personality Analysis Data"
+    title: "Clustering with K-menas"
+    excerpt: "In this analysis, I employed the K-means model for Customer Personality Analysis Data."
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   

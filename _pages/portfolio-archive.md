@@ -23,7 +23,7 @@ classes: wide
 
 <font size="4.5">
 
-I used a drinking dataset and employed the <b>LGBM Classifier</b>  to predict the target variable distinguishing between drinkers and non-drinkers. The comprehensive notebook, available in my GitHub repository, contains detailed exploratory data analysis (EDA) and a step-by-step process that includes feature selection, data scaling, model selection, and hyperparameter tuning. Additionally, I developed an interactive web application using <b>FastAPI</b>  and ensured ease of distribution and access by containerizing it with <b>Docker</b> .
+I used a drinking dataset and employed the <b>LGBM Classifier</b>  to predict the target variable distinguishing between drinkers and non-drinkers. The comprehensive notebook, available in my GitHub repository, contains detailed exploratory data analysis (EDA) and a step-by-step process that includes feature selection, data scaling, model selection, and hyperparameter tuning. Additionally, I developed an interactive web application using <b>FastAPI</b>  and ensured ease of distribution and access by containerizing it with <b>Docker</b>.
 </font>
 
 <div class="button-container">
@@ -40,7 +40,7 @@ I used a drinking dataset and employed the <b>LGBM Classifier</b>  to predict th
 </figure> 
 
 
-### Deployment of a Support Vector Classifier (SVC) modell using FastAPI and Docker.
+### Deployment of a Support Vector Classifier (SVC) model using FastAPI and Docker.
 
 <font size="4.5">
 In this project, I deployed an <b>SVC model</b>  using churn data, applying meticulous model selection and hyperparameter tuning through GridSearchCV. I constructed a user-friendly web application with <b>FastAPI</b> , allowing seamless interaction with the predictive model. To facilitate ease of use and distribution, I encapsulated the application within a <b>Docker</b>  container. For convenient access, you can directly download the <b> Docker image</b>  of the application from my GitHub repository.
@@ -113,7 +113,7 @@ With data from the open data portal of Mexico City I create a comprehensive map 
 
 <font size="4.5">
 
-In this analysis, I employed the <b>K-means model</b>  for Customer Personality Analysis Data, following a systematic workflow. I began with data summary to establish a foundational understanding of the dataset. Subsequently, I delved into data visualization and missing value imputation, ensuring data integrity. The detection and management of outliers further refined the dataset. I applied data transformation techniques, including <b>Ordinal</b>  and <b> One-Hot encoding</b> , followed by data scaling for consistency. Dimensionality reduction using <b>PCA</b>  enhanced efficiency. The pivotal step of finding the best K for the K-means model was executed, culminating in the clustering summary
+In this analysis, I employed the <b>K-means model</b>  for Customer Personality Analysis Data, following a systematic workflow. I began with data summary to establish a foundational understanding of the dataset. Subsequently, I delved into data visualization and missing value imputation, ensuring data integrity. The detection and management of outliers further refined the dataset. I applied data transformation techniques, including <b>Ordinal</b>  and <b> One-Hot encoding</b> , followed by data scaling for consistency. Dimensionality reduction using <b>PCA</b>  enhanced efficiency. The pivotal step of finding the best K for the K-means model was executed, culminating in the clustering summary.
 
 </font>
 
@@ -132,7 +132,7 @@ In this analysis, I employed the <b>K-means model</b>  for Customer Personality 
     <figcaption>Plot by Santiago Rosas</figcaption>
 </figure> 
 
-###  Human Gut Microbiome Across Different Lifestyles
+###  Human Gut Microbiome Across Different Lifestyles.
 
 <font size="4.5">
 
@@ -153,7 +153,7 @@ In this analysis, I employed the <b>K-means model</b>  for Customer Personality 
     <figcaption>Plot by Santiago Rosas</figcaption>
 </figure> 
 
-###  COVID-19 outcome prediction 
+###  COVID-19 Outcome Prediction with RandomForest, LGBM and Nearest Centroid models. 
 
 
 <font size="4.5">
