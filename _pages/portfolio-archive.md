@@ -148,7 +148,7 @@ In this analysis, I employed the <b>K-means model</b>  for Customer Personality 
 
 
 
-<figure style="width: 250px; height: 250px; margin: 30px 30px;"  class="align-left">
+<figure style="width: 250px; height: 300px; margin: 30px 30px;"  class="align-left">
   <img src="/assets/images/covid.png" alt="">
     <figcaption>Plot by Santiago Rosas</figcaption>
 </figure> 
@@ -167,3 +167,4 @@ In this in-depth analysis using COVID-19 data, I took on the crucial task of man
 </div>
 
 
+---
