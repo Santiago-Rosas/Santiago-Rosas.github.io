@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/portadita.jpg
 excerpt: >
-  *Genomic and Data Scientist*. <br />
+  *Genomic and Data Scientist* <br />
 intro: 
   - excerpt: '*You can find more information about my projects in my portfolio*'
 
