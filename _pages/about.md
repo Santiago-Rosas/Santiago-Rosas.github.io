@@ -17,7 +17,7 @@ Throughout my academic journey, I have discovered my passion for data management
 and processing, as well as my profound interest in the application of machine learning models to a wide array of data and topics. Consequently, I have dedicated the recent years to delve deeper into data engineering and data science. Currently, I am actively seeking opportunities in the industry, specifically in roles related to data engineering and data science.</p>
 
 <figure style="width: 250px; height: 250px; margin: 10px 20px;"  class="align-right">
-  <img src="/assets/images/bicicle4.jpg " alt="">
+  <img src="/assets/images/bicicle3.jpg " alt="">
 </figure> 
 <p style="text-align: justify;">
 

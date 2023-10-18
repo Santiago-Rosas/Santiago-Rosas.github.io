@@ -35,7 +35,7 @@ I used a drinking dataset and employed the LGBM Classifier to predict the target
 ---
 
 <figure style="width: 250px; height: 250px; margin: 30px 30px ;"  class="align-left">
-  <img src="/assets/images/churn.jpg " alt="">
+  <img src="/assets/images/churn2.jpg " alt="">
    <figcaption>Photo by Polina Tankilevitch</figcaption>
 </figure> 
 
@@ -80,7 +80,7 @@ I  conducted an exploratory analysis of the mosquito rate dataset, and subsequen
 
 
 <figure style="width: 250px; height: 250px; margin: 30px 30px;"  class="align-left">
-  <img src="/assets/images/map.png" alt="">
+  <img src="/assets/images/map8.png" alt="">
   <figcaption>Plot by Santiago Rosas</figcaption>
 </figure> 
 
