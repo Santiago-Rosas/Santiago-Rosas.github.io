@@ -14,7 +14,7 @@ classes: wide
 
 
 
-<figure style="width: 250px; height: 250px; margin: 35px 30px;"  class="align-left">
+<figure style="width: 250px; height: 300px; margin: 35px 30px;"  class="align-left">
   <img src="/assets/images/lol.png " alt="">
    <figcaption>Plot by Santiago Rosas.</figcaption>
 </figure> 
@@ -34,7 +34,7 @@ I used a drinking dataset and employed the <b>LGBM Classifier</b>  to predict th
 
 ---
 
-<figure style="width: 250px; height: 250px; margin: 30px 30px ;"  class="align-left">
+<figure style="width: 250px; height: 300px; margin: 30px 30px ;"  class="align-left">
   <img src="/assets/images/churn2.jpg " alt="">
    <figcaption>Photo by Polina Tankilevitch</figcaption>
 </figure> 
@@ -56,7 +56,7 @@ In this project, I deployed an <b>SVC model</b>  using churn data, applying meti
 ---
 
 
-<figure style="width: 250px; height: 250px; margin: 30px 30px;"  class="align-left">
+<figure style="width: 250px; height: 300px; margin: 30px 30px;"  class="align-left">
   <img src="/assets/images/mosquito2.png" alt="">
      <figcaption>Plot by Santiago Rosas</figcaption>
 </figure> 
@@ -79,7 +79,7 @@ I  conducted an exploratory analysis of the mosquito rate dataset, and subsequen
 ---
 
 
-<figure style="width: 250px; height: 250px; margin: 30px 30px;"  class="align-left">
+<figure style="width: 250px; height: 290px; margin: 30px 30px;"  class="align-left">
   <img src="/assets/images/map8.png" alt="">
   <figcaption>Plot by Santiago Rosas</figcaption>
 </figure> 
@@ -127,12 +127,12 @@ In this analysis, I employed the <b>K-means model</b>  for Customer Personality 
 ---
 
 
-<figure style="width: 250px; height: 250px; margin: 30px 30px;"  class="align-left">
+<figure style="width: 250px; height: 270px; margin: 30px 30px;"  class="align-left">
   <img src="/assets/images/agric.png" alt="">
     <figcaption>Plot by Santiago Rosas</figcaption>
 </figure> 
 
-###  Human Gut Microbiome Across Different Lifestyles.
+###  Human Gut Microbiome Across Different Lifestyles: From Hunter-Gatherers to Urban Populations.
 
 <font size="4.5">
 
