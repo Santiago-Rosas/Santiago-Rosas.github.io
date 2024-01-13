@@ -1,12 +1,14 @@
 # main links
 main:  
-  - url: /portfolio/
   - title: "Portfolio"
     url: /portfolio/
   - title: "About"
     url: /about/
+  - title: "Diplomas and Certifications"
+    url: /Diplomas and Certifications/
   - title: "CV"
     url: /assets/images/CV_SantiagoRosas.pdf
+
 
   #- title: "Quick-Start Guide"
    # url: /docs/quick-start-guide.md
