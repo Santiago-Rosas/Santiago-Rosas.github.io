@@ -4,8 +4,8 @@ main:
     url: /portfolio/
   - title: "About"
     url: /about/
-  - title: "Diplomas and Certifications"
-    url: /Diplomas and Certifications/
+  - title: "Diplomas and Certificates"
+    url: /Diplomas and Certificates/
   - title: "CV"
     url: /assets/images/CV_SantiagoRosas.pdf
 

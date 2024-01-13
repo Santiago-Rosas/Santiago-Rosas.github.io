@@ -1,10 +1,10 @@
 ---
-title: Diplomas and Certifications
+title: Diplomas and Certificates
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/portadita.jpg
 layout: single
-permalink: /Diplomas and Certifications/
+permalink: /Diplomas and Certificates/
 entries_layout: grid
 author_profile: true
 classes: wide
